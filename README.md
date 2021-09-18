@@ -49,5 +49,5 @@ the most efficient way to remove large swaths of blocks as a dragon (helpful,
 because you're about 4.9m on a side, so you won't fit into small tunnels).
 
 [iChunUtil]: https://github.com/Grissess/iChunUtil/releases
-[releases]: TODO
+[releases]: https://github.com/Grissess/MorphDragonExtensions/releases
 [tracker]: https://github.com/Grissess/MorphDragonExtensions/issues

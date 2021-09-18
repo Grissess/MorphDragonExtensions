@@ -26,8 +26,9 @@ Important Stuff
 
 - **You'll want to patch the configs in this directory.** In lieu of forking
   Morph, I've just uploaded configs that have sensible defaults for this use
-  case. You are welcome to modify them, but note that _your dragon abilities
-  won't work_ if you don't at least start from this base.
+  case in the [config directory][config]. You are welcome to modify them, but
+  note that _your dragon abilities won't work_ if you don't at least start from
+  this base.
 
 Usage
 -----
@@ -51,3 +52,4 @@ because you're about 4.9m on a side, so you won't fit into small tunnels).
 [iChunUtil]: https://github.com/Grissess/iChunUtil/releases
 [releases]: https://github.com/Grissess/MorphDragonExtensions/releases
 [tracker]: https://github.com/Grissess/MorphDragonExtensions/issues
+[config]: config/

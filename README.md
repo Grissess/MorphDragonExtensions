@@ -35,7 +35,10 @@ Usage
 
 Install the mods in the usual way--put a JAR in the `mods` folder. You can get
 that from the [releases page][releases], or clone this repository and run
-`gradlew build` in a way copacetic to your platform. Then, put the `config
+`gradlew build` in a way copacetic to your platform. Then, put the
+[config][config] files into your Minecraft (Forge) `config` directory (so that
+you have the usual dragon abilities--otherwise, the changes will be cosmetic
+only).
 
 Then, you need to add a dragon morph. In lieu of killing a dragon, you can also
 just look at one of the DM2 dragons and execute `/morph give` as Op (or have an
